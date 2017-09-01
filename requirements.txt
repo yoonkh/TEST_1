@@ -1,7 +1,5 @@
-Collecting freeze
-  Downloading freeze-1.0.10.tar.gz
-Requirement already satisfied: six in /usr/local/var/pyenv/versions/3.6.1/envs/django_girls_env/lib/python3.6/site-packages (from freeze)
-Installing collected packages: freeze
-  Running setup.py install for freeze: started
-    Running setup.py install for freeze: finished with status 'done'
-Successfully installed freeze-1.0.10
+Django==1.11.4
+django-extensions==1.9.0
+freeze==1.0.10
+pytz==2017.2
+six==1.10.0
